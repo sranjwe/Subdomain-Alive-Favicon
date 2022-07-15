@@ -21,7 +21,7 @@ def alive():
 	subs = data.readlines()
 	data.close()
 	f = open("alive.txt","a")
-	print(\n"-------------------")
+	print("\n-------------------")
 	print("--Alive Subdomain--")
 	print("------------------")
 	for i in subs:
