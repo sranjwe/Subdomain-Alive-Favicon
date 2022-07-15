@@ -10,7 +10,7 @@ One tool to
  
  # Features:-
  1) Enumerate Subdomains and store it in subdomains.txt
- 2) Check for alive domains and store it in alive.txt
+ 2) Check for alive domains having status code 200 and store it in alive.txt
  3) Generate Favicon Hash of each domain and store it in favhash.txt
  
  # Prerequisites:-
